@@ -1,3 +1,3 @@
 # UIU-SPL
-<h1>Structured Programming Language (C Programming)</h1>
+<h4>Structured Programming Language (C Programming)</h4>
 <p>Based on United International University</p>
