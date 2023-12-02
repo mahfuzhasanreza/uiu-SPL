@@ -1,2 +1,2 @@
-# UIU - Structured Programming Language (C Programming)
+# Structured Programming Language with C
 Based on United International University.
