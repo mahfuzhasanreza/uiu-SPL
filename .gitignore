@@ -1,7 +1,5 @@
-GitImg/
+git-img/
 *.bin
 *.cph
 *.exe
 *.vscode
-/UIU-SPL/GitImg
-*.png
