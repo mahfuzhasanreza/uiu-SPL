@@ -24,10 +24,7 @@
 ![Star Bar](https://docs.github.com/assets/cb-8608/mw-1440/images/help/stars/starring-a-repository.webp)
 
 ## Viewing this Repository on your Profile
-- Go to your GitHub profile
-- Click on Stars
-
-![Your Profile Stars Bar](https://github.com/mahfuzhasanreza/git-doc/blob/main/git-img/lists-overview-on-stars-page.png?raw=true)
+After saving this repository, go to your GitHub profile and click on Stars
 
 <br>
 
