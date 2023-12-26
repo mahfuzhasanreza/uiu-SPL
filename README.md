@@ -18,12 +18,12 @@
   
 <br>
 
-## Saving this Repository with Star
+## How to Save this Repository?
 `In the top-right corner of this page, click Star`
 
 ![Star Bar](https://docs.github.com/assets/cb-8608/mw-1440/images/help/stars/starring-a-repository.webp)
 
-## Viewing this Repository on Your GitHub
+## Viewing this Repository on your Profile
 - Go to your GitHub profile
 - Click on Stars
 
