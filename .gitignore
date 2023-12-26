@@ -1,4 +1,4 @@
-git-img/
+*.png
 *.bin
 *.cph
 *.exe
