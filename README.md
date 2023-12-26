@@ -21,7 +21,17 @@
 ## Saving this Repository with Star
 `In the top-right corner of this page, click Star`
 
-![img](https://docs.github.com/assets/cb-8608/mw-1440/images/help/stars/starring-a-repository.webp)
+![Star Bar](https://docs.github.com/assets/cb-8608/mw-1440/images/help/stars/starring-a-repository.webp)
 
 ## Viewing this Repository on Your GitHub
-![img](https://raw.githubusercontent.com/mahfuzhasanreza/git-doc/main/git-img/lists-overview-on-stars-page.png?token=GHSAT0AAAAAACMAPYR5PA67Y7TI3DVGEW24ZMKYL3A)
+- Go to your GitHub profile
+- Click on Stars
+
+![Your Profile Stars Bar](https://github.com/mahfuzhasanreza/git-doc/blob/main/git-img/lists-overview-on-stars-page.png?raw=true)
+
+<br>
+
+## _Author: [Mahfuz Hasan Reza](https://github.com/mahfuzhasanreza/)_
+ - _Connect with me on [LinkedIn](https://www.linkedin.com/in/mahfuzhasanreza/)_
+ - _Follow me on [Instagram](https://www.instagram.com/mahfuzhasanreza/)_
+ - _Connect with me on [Facebook](https://www.facebook.com/mahfuzhasanreza/)_
