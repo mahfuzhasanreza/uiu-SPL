@@ -1,5 +1,5 @@
 # Structured Programming Language with C
-Based on United International University (UIU).  
+`Based on United International University (UIU)`  
 
 ## Content Overview
   - Topic Details
@@ -8,7 +8,5 @@ Based on United International University (UIU).
   - Previous Question Solve
     - Mid Q. Solve
     - [Final Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#final-q-solve)
----
----
 
 ## Final Q. Solve
