@@ -137,79 +137,93 @@ int main(){
 ```
 
 ## Answer to the Question 3 (b)
-```
+
 Manual Trace:
-| i | k | str1 | str2 |
-|---|---|------|------|
+    i    |    k    |       str1       |       str2
+:-------:|:-------:|:----------------:|:---------------:
+\-    |   \-    |      '\0'        |       BEST
+\-    |   \-    |   HELLO FELLAS   |       BEST
+6    |   \-    |   HELLO FELLAS   |       BEST
+6    |    0    |   HELLO BELLAS   |       BEST
+6    |    1    |   HELLO BELLAS   |       BEST
+6    |    2    |   HELLO BESLAS   |       BEST
+6    |    3    |   HELLO BESTAS   |       BEST
+6    |    4    |   HELLO BESTAS   |       BEST
+6    |   \-    |   SATSEB OLLEH   |       BEST
+6    |   \-    | SATSEB OLLEHBEST |       BEST
+6    |   \-    | SATSEB OLLEHBEST |  UIU IS THE BEST
+    
 
-
-
-```
-
-## Answer to the Question 4 (b)
-```
-Output:
-    10 21 40
-    20 24 40
-```
-
-## Answer to the Question 5 (a)
+## Answer to the Question 4
 ```c
 #include<stdio.h>
+#include<string.h>
+
+struct Cricketer{
+    int wickets, matches, runs;
+    char name[1000], country[1000];
+    float average;
+};
 
 int main(){
-    FILE *inputFile;
-    inputFile=fopen("Sample.txt", "r");
+    struct Cricketer cricketerArr[100];
 
-    if(inputFile==NULL){
-        printf("File not found");
-        return 0;
+    for(int i=0; i<100; i++){
+        gets(cricketerArr[i].name);
+        gets(cricketerArr[i].country);
+        scanf("%d %d %d", &cricketerArr[i].wickets, &cricketerArr[i].matches, &cricketerArr[i].runs);
+        fflush(stdin);
     }
 
-    int arr[1000];
-    int i=0;
-    while(!feof(inputFile)){
-        fscanf(inputFile, "%d", &arr[i++]);
+    for(int i=0; i<100; i++){
+       cricketerArr[i].average=(float)cricketerArr[i].runs/cricketerArr[i].wickets;
     }
-    fclose(inputFile);
 
-    long int sum=0;
-    for(int j=0; j<i; j++){
-        if(arr[j]%2==0 && arr[j]%4==0){
-            sum+=arr[j];
+    int maxAvrgIndex=0;
+    for(int i=1; i<100; i++){
+        if(cricketerArr[i].average>cricketerArr[maxAvrgIndex].average){
+            maxAvrgIndex=i;
         }
     }
 
-    FILE *outputFile;
-    outputFile=fopen("Output.txt", "w");
-
-    fprintf(outputFile, "Sum: %ld", sum);
-    fclose(outputFile);
-
+    printf("All the information of maximum averege:: \n");
+    printf("Name: %s\nCountry: %s\nWickets: %d\nMatches: %d\nRuns: %d\nAverage: %f\n", cricketerArr[maxAvrgIndex].name, cricketerArr[maxAvrgIndex].country, cricketerArr[maxAvrgIndex].wickets, cricketerArr[maxAvrgIndex].matches, cricketerArr[maxAvrgIndex].runs, cricketerArr[maxAvrgIndex].average);
+    
     return 0;
 }
+```
+
+## Answer to the Question 5 (a)
+```
+Output:
+    -5-
+    -13-
+    -19-
 ```
 
 ## Answer to the Question 5 (b)
 ```c
 #include<stdio.h>
 
-int sumOfOddElements(int *arr, int size){
-    // Write my code here
-    int sum=0;
-    for(int i=0; i<size; i++){
-        if(*(arr+i)%2 != 0){
-            sum += *(arr+i);
-        }
-    }
-    return sum;
-}
-
 int main(){
-    int numbers[]={10, 21, 35, 42, 57, 68, 73};
-    int n=sizeof(numbers)/sizeof(numbers[0]);
-    int sum=sumOfOddElements(numbers, n);
-    printf("Sum of odd elements: %d\n", sum);
+    FILE *inputFile;
+    inputFile=fopen("numbers.txt", "r");
+
+    if(inputFile==NULL){
+        printf("File not found");
+        return 0;
+    }
+
+    int length=0;
+    int num[1000];
+    while(!feof(inputFile)){
+        fscanf(inputFile, "%d", &num[length++]);
+    }
+    fclose(inputFile);
+    
+    int median=num[length/2];
+    printf("Median: %d\n", median);
+
     return 0;
 }
 ```
