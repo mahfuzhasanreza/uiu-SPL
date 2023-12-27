@@ -3,9 +3,8 @@
 <br>
 
 ## Content Overview
-  - Previous Question Solve
-    - Mid Q. Solve
-    - [Final Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#final-q-solve)
+  - Mid Exam Q. Solve
+  - [Final Exam Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#final-q-solve)
 <br>
 
 ## Final Q. Solve
