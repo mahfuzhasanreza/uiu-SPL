@@ -8,9 +8,9 @@ struct Cricketer{
 };
 
 int main(){
-    struct Cricketer cricketerArr[2];
+    struct Cricketer cricketerArr[100];
 
-    for(int i=0; i<2; i++){
+    for(int i=0; i<100; i++){
         gets(cricketerArr[i].name);
         gets(cricketerArr[i].country);
         scanf("%s", cricketerArr[i].type);
@@ -31,7 +31,7 @@ int main(){
         fflush(stdin);
     }
 
-    for(int i=0; i<2; i++){
+    for(int i=0; i<100; i++){
         if(strcmp(cricketerArr[i].type, "bowler")==0){
             float totalWickets=0;
             for(int j=0; j<30; j++){
@@ -48,7 +48,7 @@ int main(){
     }
 
     int highPerformIndex=0;
-    for(int i=1; i<2; i++){
+    for(int i=1; i<100; i++){
         if(cricketerArr[i].performance>cricketerArr[highPerformIndex].performance){
             highPerformIndex=i;
         }
