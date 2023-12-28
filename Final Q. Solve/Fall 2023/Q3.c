@@ -1,15 +1,15 @@
 #include<stdio.h>
 
 struct Customer{
-    char name[20];
+    char name[1000];
     int id, times;
-    float money[20];
+    float money[1000];
 };
 
 int main(){
-    struct Customer customer[2];
+    struct Customer customer[100];
 
-    for(int i=0; i<2; i++){
+    for(int i=0; i<100; i++){
         gets(customer[i].name);
         scanf("%d %d", &customer[i].id, &customer[i].times);
         for(int j=0; j<customer[i].times; j++){
@@ -18,8 +18,8 @@ int main(){
         fflush(stdin);
     }
 
-    float avrg[2];
-    for(int i=0; i<2; i++){
+    float avrg[100];
+    for(int i=0; i<100; i++){
         float totalMoney=0;
         for(int j=0; j<customer[i].times; j++){
             totalMoney+=customer[i].money[j];
@@ -28,7 +28,7 @@ int main(){
     }
 
     int bestCustomerIndex=-1;
-    for(int i=0; i<2; i++){
+    for(int i=0; i<100; i++){
         if(customer[i].times>10){
             if(i==0) bestCustomerIndex=i;
             else{

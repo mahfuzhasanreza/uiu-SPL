@@ -23,7 +23,7 @@ void displayVowelCount(char *str){
 int main(){
     char str[1000];
 
-    fgets(str, sizeof(str), stdin);
+    gets(str);
     displayVowelCount(str);
 
     return 0;
