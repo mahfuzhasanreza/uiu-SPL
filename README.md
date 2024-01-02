@@ -2,12 +2,12 @@
 `Based on United International University (UIU)`  
 <br>
 
-## Content Overview
-  - **SPL Theory**
+### Content Overview
+  - SPL Theory
     - Mid Exam Q. Solve
     - [Final Exam Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#final-q-solve)
     <br>
-  - **SPL Laboratory**
+  - SPL Laboratory
     - [Assignment Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#assignment-lab-q-solve)
     - Mid Exam Q. Solve
     - Final Exam Q. Solve
@@ -30,17 +30,19 @@
   :----------------:|----------------
   [Assignment 1](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Assignment%20Lab%20Q.%20Solve/Assignment%201/Lab_Ass_Question_1.pdf) | Click [here](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20Lab%20Q.%20Solve/Assignment%201) for Assignment 1 solution
 
-## How to Save this Repository?
+<br>
+
+### How to Save this Repository?
 `In the top-right corner of this page, click Star`
 
 ![Star Bar](https://docs.github.com/assets/cb-8608/mw-1440/images/help/stars/starring-a-repository.webp)
 
-## Viewing this Repository on your Profile
+### Viewing this Repository on your Profile
 After saving this repository, go to your GitHub profile and click on Stars
 
 <br>
 
-## _Author: [Mahfuz Hasan Reza](https://github.com/mahfuzhasanreza/)_
+### _Author: [Mahfuz Hasan Reza](https://github.com/mahfuzhasanreza/)_
  - _Connect with me on [LinkedIn](https://www.linkedin.com/in/mahfuzhasanreza/)_
  - _Follow me on [Instagram](https://www.instagram.com/mahfuzhasanreza/)_
  - _Connect with me on [Facebook](https://www.facebook.com/mahfuzhasanreza/)_
