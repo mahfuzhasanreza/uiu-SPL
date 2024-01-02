@@ -3,9 +3,13 @@
 <br>
 
 ## Content Overview
-  - Mid Exam Q. Solve
-  - [Final Exam Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#final-q-solve)
-  - [SPL Lab](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/SPL%20Laboratory)
+  - SPL Theory
+    - Mid Exam Q. Solve
+    - [Final Exam Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#final-q-solve)
+  - SPL Laboratory
+    - [Assignment Q. Solve]
+    - Mid Exam Q. Solve
+    - Final Exam Q. Solve
 <br>
 
 ## Final Q. Solve
