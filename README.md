@@ -1,4 +1,4 @@
-# Structured Programming Language with C
+# Structured Programming Language (Theory & Lab) with C
 `Based on United International University (UIU)`  
 <br>
 
@@ -8,7 +8,7 @@
     - [Final Exam Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#final-q-solve)
     
   - **SPL Laboratory**
-    - [Assignment Lab Q. Solve]
+    - [Assignment Lab Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#assignment-lab-q-solve)
     - Mid Lab Q. Solve
     - Final Lab Q. Solve
 
@@ -32,7 +32,7 @@
 ### Assignment Lab Q. Solve
   | Question (.pdf) | Solution Link |
   :----------------:|----------------
-  [Assignment 1]() | Click [here]() for Assignment 1 solution
+  [Assignment 1](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Assignment%20Lab%20Q.%20Solve/Assignment%201/Lab_Ass_Question_1.pdf) | Click [here](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20Lab%20Q.%20Solve/Assignment%201) for Assignment 1 solution
 
 ## How to Save this Repository?
 `In the top-right corner of this page, click Star`
