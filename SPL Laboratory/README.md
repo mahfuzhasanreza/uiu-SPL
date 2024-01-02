@@ -1,4 +1,4 @@
-# Structured Programming Language with C
+# Structured Programming Language Laboratory with C
 `Based on United International University (UIU)`  
 <br>
 
@@ -8,10 +8,7 @@
   - Final Exam Q. Solve
 <br>
 
-## Assignment Q. Solve
-  | Question (.pdf) | Solution Link |
-  :----------------:|----------------
-  [Assignment 1]() | Click [here]() for Assignment 1 solution
+
   
 
 <br>
