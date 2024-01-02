@@ -1,9 +1,9 @@
 ## Solution Overview
-  - [Question 1](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Fall%202023/README.md#answer-to-the-question-1-a)
-  - [Question 2](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Fall%202023/README.md#answer-to-the-question-2-a)
-  - [Question 3](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Fall%202023/README.md#answer-to-the-question-3)
-  - [Question 4](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Fall%202023/README.md#answer-to-the-question-4-a)
-  - [Question 5](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Fall%202023/README.md#answer-to-the-question-5-a)
+  - [Question 1](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20Lab%20Q.%20Solve/Assignment%201#answer-to-the-question-1)
+  - [Question 2](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20Lab%20Q.%20Solve/Assignment%201#answer-to-the-question-2)
+  - [Question 3](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20Lab%20Q.%20Solve/Assignment%201#answer-to-the-question-3)
+  - [Question 4](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20Lab%20Q.%20Solve/Assignment%201#answer-to-the-question-4)
+  - [Question 5](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20Lab%20Q.%20Solve/Assignment%201#answer-to-the-question-5)
 
           
 ## Answer to the Question 1
