@@ -3,16 +3,20 @@
 <br>
 
 ## Content Overview
-  - SPL Theory
+  - **SPL Theory**
     - Mid Exam Q. Solve
     - [Final Exam Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#final-q-solve)
-  - SPL Laboratory
-    - [Assignment Q. Solve]
-    - Mid Exam Q. Solve
-    - Final Exam Q. Solve
+    
+  - **SPL Laboratory**
+    - [Assignment Lab Q. Solve]
+    - Mid Lab Q. Solve
+    - Final Lab Q. Solve
+
 <br>
 
-## Final Q. Solve
+## SPL Theory
+
+### Final Q. Solve
   | Question (.pdf) | Solution Link |
   :----------------:|----------------
   [Summer 2022](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Summer%202022/Final_Question_Summer_22.pdf) | Click [here](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Final%20Q.%20Solve/Summer%202022) for Summer 2022 solution
@@ -22,6 +26,13 @@
   [Fall 2023](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Fall%202023/Final_Question_Fall_23.pdf) | Click [here](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Final%20Q.%20Solve/Fall%202023) for Fall 2023 solution
   
 <br>
+
+## SPL Laboratory
+
+### Assignment Q. Solve
+  | Question (.pdf) | Solution Link |
+  :----------------:|----------------
+  [Assignment 1]() | Click [here]() for Assignment 1 solution
 
 ## How to Save this Repository?
 `In the top-right corner of this page, click Star`
