@@ -5,7 +5,7 @@
 ## Content Overview
   - Mid Exam Q. Solve
   - [Final Exam Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#final-q-solve)
-  - [SPL Laboratory](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/SPL%20Laboratory)
+  - [SPL Lab](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/SPL%20Laboratory)
 <br>
 
 ## Final Q. Solve
