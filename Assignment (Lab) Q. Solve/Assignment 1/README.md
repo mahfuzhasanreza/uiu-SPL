@@ -1,9 +1,9 @@
 ## Solution Overview
-  - [Question 1](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20Lab%20Q.%20Solve/Assignment%201#answer-to-the-question-1)
-  - [Question 2](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20Lab%20Q.%20Solve/Assignment%201#answer-to-the-question-2)
-  - [Question 3](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20Lab%20Q.%20Solve/Assignment%201#answer-to-the-question-3)
-  - [Question 4](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20Lab%20Q.%20Solve/Assignment%201#answer-to-the-question-4)
-  - [Question 5](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20Lab%20Q.%20Solve/Assignment%201#answer-to-the-question-5)
+  - [Question 1](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20(Lab)%20Q.%20Solve/Assignment%201#answer-to-the-question-1)
+  - [Question 2](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20(Lab)%20Q.%20Solve/Assignment%201#answer-to-the-question-2)
+  - [Question 3](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20(Lab)%20Q.%20Solve/Assignment%201#answer-to-the-question-3)
+  - [Question 4](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20(Lab)%20Q.%20Solve/Assignment%201#answer-to-the-question-4)
+  - [Question 5](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20(Lab)%20Q.%20Solve/Assignment%201#answer-to-the-question-5)
 
           
 ## Answer to the Question 1
