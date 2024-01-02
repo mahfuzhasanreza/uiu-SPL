@@ -16,7 +16,7 @@
 
 ## SPL Theory
 
-### Final Q. Solve
+### Final Exam Q. Solve
   | Question (.pdf) | Solution Link |
   :----------------:|----------------
   [Summer 2022](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Summer%202022/Final_Question_Summer_22.pdf) | Click [here](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Final%20Q.%20Solve/Summer%202022) for Summer 2022 solution
@@ -29,7 +29,7 @@
 
 ## SPL Laboratory
 
-### Assignment Q. Solve
+### Assignment Lab Q. Solve
   | Question (.pdf) | Solution Link |
   :----------------:|----------------
   [Assignment 1]() | Click [here]() for Assignment 1 solution
