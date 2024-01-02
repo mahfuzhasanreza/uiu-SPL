@@ -8,15 +8,13 @@
     - [Final Exam Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#final-q-solve)
     <br>
   - **SPL Laboratory**
-    - [Assignment Lab Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#assignment-lab-q-solve)
-    - Mid Lab Q. Solve
-    - Final Lab Q. Solve
+    - [Assignment Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#assignment-lab-q-solve)
+    - Mid Exam Q. Solve
+    - Final Exam Q. Solve
 
 <br>
 
-## SPL Theory
-
-### Final Exam Q. Solve
+## Final (Theory) Q. Solve
   | Question (.pdf) | Solution Link |
   :----------------:|----------------
   [Summer 2022](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Summer%202022/Final_Question_Summer_22.pdf) | Click [here](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Final%20Q.%20Solve/Summer%202022) for Summer 2022 solution
@@ -27,9 +25,7 @@
   
 <br>
 
-## SPL Laboratory
-
-### Assignment Lab Q. Solve
+## Assignment (Lab) Q. Solve
   | Question (.pdf) | Solution Link |
   :----------------:|----------------
   [Assignment 1](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Assignment%20Lab%20Q.%20Solve/Assignment%201/Lab_Ass_Question_1.pdf) | Click [here](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20Lab%20Q.%20Solve/Assignment%201) for Assignment 1 solution
