@@ -3,11 +3,11 @@
 <br>
 
 ### Content Overview
-  - SPL Theory
+  - **SPL Theory**
     - Mid Exam Q. Solve
     - [Final Exam Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#final-theory-q-solve)
     <br>
-  - SPL Laboratory
+  - **SPL Laboratory**
     - [Assignment Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#assignment-lab-q-solve)
     - Mid Exam Q. Solve
     - Final Exam Q. Solve
