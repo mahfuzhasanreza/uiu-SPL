@@ -5,7 +5,7 @@
 ### Content Overview
   - SPL Theory
     - Mid Exam Q. Solve
-    - [Final Exam Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#final-q-solve)
+    - [Final Exam Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#final-theory-q-solve)
     <br>
   - SPL Laboratory
     - [Assignment Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#assignment-lab-q-solve)
