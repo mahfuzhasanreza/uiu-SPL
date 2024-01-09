@@ -1,17 +1,17 @@
 ## Solution Overview
   - Question 1
-      - [Question 1 (a)](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Summer%202023/README.md#answer-to-the-question-1-a)
-      - [Question 1 (b)](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Summer%202023/README.md#answer-to-the-question-1-b)
+      - [Question 1 (a)](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Final%20(Theory)%20Q.%20Solve/Summer%202023#answer-to-the-question-1-a)
+      - [Question 1 (b)](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Final%20(Theory)%20Q.%20Solve/Summer%202023#answer-to-the-question-1-b)
   - Question 2
-      - [Question 2 (a)](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Summer%202023/README.md#answer-to-the-question-2-a)
-      - [Question 2 (b)](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Summer%202023/README.md#answer-to-the-question-2-b)
-  - [Question 3](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Summer%202023/README.md#answer-to-the-question-3)
+      - [Question 2 (a)](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Final%20(Theory)%20Q.%20Solve/Summer%202023#answer-to-the-question-2-a)
+      - [Question 2 (b)](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Final%20(Theory)%20Q.%20Solve/Summer%202023#answer-to-the-question-2-b)
+  - [Question 3](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Final%20(Theory)%20Q.%20Solve/Summer%202023#answer-to-the-question-3)
   - Question 4
-      - [Question 4 (a)](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Summer%202023/README.md#answer-to-the-question-4-a)
-      - [Question 4 (b)](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Summer%202023/README.md#answer-to-the-question-4-b)
+      - [Question 4 (a)](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Final%20(Theory)%20Q.%20Solve/Summer%202023#answer-to-the-question-4-a)
+      - [Question 4 (b)](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Final%20(Theory)%20Q.%20Solve/Summer%202023#answer-to-the-question-4-b)
   - Question 5
-      - [Question 5 (a)](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Summer%202023/README.md#answer-to-the-question-5-a)
-      - [Question 5 (b)](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20Q.%20Solve/Summer%202023/README.md#answer-to-the-question-5-b)
+      - [Question 5 (a)](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Final%20(Theory)%20Q.%20Solve/Summer%202023#answer-to-the-question-5-a)
+      - [Question 5 (b)](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Final%20(Theory)%20Q.%20Solve/Summer%202023#answer-to-the-question-5-b)
 
           
 ## Answer to the Question 1 (a)
