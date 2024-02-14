@@ -1,47 +1,36 @@
 ## Solution Overview
-  - [Question 1](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20(Lab)%20Q.%20Solve/Assignment%201#answer-to-the-question-1)
-  - [Question 2](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20(Lab)%20Q.%20Solve/Assignment%201#answer-to-the-question-2)
-  - [Question 3](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20(Lab)%20Q.%20Solve/Assignment%201#answer-to-the-question-3)
-  - [Question 4](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20(Lab)%20Q.%20Solve/Assignment%201#answer-to-the-question-4)
-  - [Question 5](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20(Lab)%20Q.%20Solve/Assignment%201#answer-to-the-question-5)
-  - [Question 6](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20(Lab)%20Q.%20Solve/Assignment%201#answer-to-the-question-5)
-  - [Question 7](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20(Lab)%20Q.%20Solve/Assignment%201#answer-to-the-question-5)
-  - [Question 8](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20(Lab)%20Q.%20Solve/Assignment%201#answer-to-the-question-5)
-  - [Question 9](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20(Lab)%20Q.%20Solve/Assignment%201#answer-to-the-question-5)
-  - [Question 10](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20(Lab)%20Q.%20Solve/Assignment%201#answer-to-the-question-5)
+  - [Question 1]()
+  - [Question 2]()
+  - [Question 3]()
+  - [Question 4]()
+  - [Question 5]()
+  - [Question 6]()
+  - [Question 7]()
+  - [Question 8]()
+  - [Question 9]()
+  - [Question 10]()
 
           
 ## Answer to the Question 1
 ```c
-#include<stdio.h>
+#include <stdio.h>
 
 int main(){
-    char mainString[1000], substring[1000];
-    printf("Mainstring: ");
-    scanf("%s", mainString);
-    printf("Substring: ");
-    scanf("%s", substring);
+    int n;
+    scanf("%d", &n);
 
-    int i=0;
-    int j=0;
-    int match=0;
-    while(mainString[i]!='\0'){
-        if(mainString[i]==substring[j]){
-            j++;
-        } else{
-            j=0;
+    int count=0;
+    for(int i=1; i<=n; i++){
+        int j;
+        for(j=1; j<=n-i; j++){
+            printf(" ");
         }
-        if(substring[j]=='\0'){
-            match=1;
-            break;
+        for(; j<=n; j++){
+            count++;
+            if(count==n+1) count=1;
+            printf("%d", count);
         }
-        i++;
-    }
-
-    if(match){
-        printf("Found");
-    } else{
-        printf("Not Found");
+        printf("\n");
     }
 
     return 0;
@@ -50,40 +39,25 @@ int main(){
 
 ## Answer to the Question 2
 ```c
-#include<stdio.h>
-#include<math.h>
-
-int is_perfect_square(int x){
-    if(sqrt(x)*sqrt(x)==x) return 1;
-    return 0;
-}
-
-int are_digits_non_decreasing(int x, int prev_digit){
-    if(x==0) return 1;
-
-    int currentDigit=x%10;
-    if(currentDigit<=prev_digit) return are_digits_non_decreasing(x/10, currentDigit);
-    else return 0;
-}
-
-int check_are_digits_non_decreasing(int x){
-    if(are_digits_non_decreasing(x, 10)) return 1;
-    return 0;
-}
-
-void find_perfect_square_sorcerers(int start, int end){
-    printf("Perfect Square Sorcerers within the range [1, 400]:\n");
-    for(int i=start; i<=end; i++){
-        if(is_perfect_square(i) && check_are_digits_non_decreasing(i)) printf("%d\n", i);
-    }
-}
+#include <stdio.h>
 
 int main(){
-    int start, end;
+    int n;
+    scanf("%d", &n);
 
-    printf("Enter the range [start, end]: ");
-    scanf("%d %d", &start, &end);
-    find_perfect_square_sorcerers(start, end);
+    for(int i=1; i<n; i++){
+        int count=n;
+        int j;
+        for(j=1; j<n-i; j++){
+            printf(" ");
+            --count;
+        }
+        for(; j<n; j++) printf("%d", --count);
+        
+        for(int k=1; k<i; k++) printf("%d", ++count);
+        
+        printf("\n");
+    }
 
     return 0;
 }
@@ -91,108 +65,19 @@ int main(){
 
 ## Answer to the Question 3
 ```c
-#include<stdio.h>
-#include<string.h>
-
-struct Employee{
-    int employeeID;
-    char name[50];
-    int age;
-};
-
-void addEmployee(struct Employee *EmployeeList, int *numEmployees){
-    if(*numEmployees<100){
-        printf("Enter details for the new employee:\n");
-        printf("Employee ID: ");
-        scanf("%d", &EmployeeList[*numEmployees].employeeID);
-        printf("Name: ");
-        scanf("%s", EmployeeList[*numEmployees].name);
-        printf("Age: ");
-        scanf("%d", &EmployeeList[*numEmployees].age);
-
-        (*numEmployees)++;
-        printf("New employee added.\n");
-    } 
-    else printf("Cannot add more employees. Maximum limit reached.\n");
-}
-
-void displayEmployee(struct Employee *Employee_ptr){
-    printf("Employee ID: %d\n", Employee_ptr->employeeID);
-    printf("Name: %s\n", Employee_ptr->name);
-    printf("Age: %d\n", Employee_ptr->age);
-}
-
-void updateEmployeeInfo(struct Employee *EmployeeList, int *numEmployees, char *EmployeeName){
-    int found=0;
-
-    for(int i=0; i<*numEmployees; i++){
-        if(strcmp(EmployeeList[i].name, EmployeeName)==0){
-            printf("Enter new age: ");
-            scanf("%d", &EmployeeList[i].age);
-            printf("Employee information updated.\n");
-            found=1;
-            break;
-        }
-    }
-
-    if(!found){
-        if(*numEmployees<100){
-            printf("Employee not found. Adding as a new employee.\n");
-            printf("Enter details for the new employee:\n");
-            printf("Employee ID: ");
-            scanf("%d", &EmployeeList[*numEmployees].employeeID);
-            strcpy(EmployeeList[*numEmployees].name, EmployeeName);
-            printf("Age: ");
-            scanf("%d", &EmployeeList[*numEmployees].age);
-
-            (*numEmployees)++;
-        }
-        else printf("Cannot add more employees. Maximum limit reached.\n");
-    }
-}
-
-void displayAllEmployees(struct Employee *EmployeeList, int numEmployees) {
-    printf("Employee List:\n");
-    for(int i=0; i<numEmployees; i++) {
-        printf("Employee %d:\n", i+1);
-        displayEmployee(&EmployeeList[i]);
-    }
-}
+#include <stdio.h>
 
 int main(){
-    struct Employee EmployeeList[100];
-    int numEmployees=0;
+    int n;
+    scanf("%d", &n);
 
-    int choice;
-    char EmployeeName[50];
-
-    do{
-        printf("1. Add Employee\n");
-        printf("2. Update Employee Information\n");
-        printf("3. Display All Employees\n");
-        printf("4. Exit\n");
-        printf("Enter your choice: ");
-        scanf("%d", &choice);
-
-        switch(choice){
-            case 1:
-                addEmployee(EmployeeList, &numEmployees);
-                break;
-            case 2:
-                printf("Enter the name of the employee to update: ");
-                scanf("%s", EmployeeName);
-                updateEmployeeInfo(EmployeeList, &numEmployees, EmployeeName);
-                break;
-            case 3:
-                displayAllEmployees(EmployeeList, numEmployees);
-                break;
-            case 4:
-                printf("Exiting program.\n");
-                break;
-            default:
-                printf("Invalid choice. Please try again.\n");
+    for(int i=1; i<=n; i++){
+        for(int j=1; j<=n; j++){
+            if(i==j || i+j==n+1) printf("*");
+            else printf(" ");
         }
-    } while(choice!=4);
+        printf("\n");
+    }
 
     return 0;
 }
@@ -202,41 +87,19 @@ int main(){
 ```c
 #include <stdio.h>
 
-int is_prime(int x){
-    if(x<2) return 0;
-
-    for(int i=2; i*i<=x; i++) {
-        if (x%i==0) return 0;
-    }
-    return 1;
-}
-
-int reverse_number(int x, int reversed){
-    if(x==0) return reversed;
-    return reverse_number(x/10, reversed*10+x%10);
-}
-
-int is_palindromic_prime(int x){
-    if(is_prime(x) && (x==reverse_number(x, 0))) return 1;
-    return 0;
-}
-
-void find_superhero_palindromic_primes(int start, int end) {
-    printf("Palindromic prime numbers within the range %d to %d are:\n", start, end);
-    for (int i=start; i<=end; i++) {
-        if(is_palindromic_prime(i)) printf("%d\n", i);
-    }
-}
-
 int main(){
-    int lower_limit, upper_limit;
+    int n;
+    scanf("%d", &n);
 
-    printf("Enter lower limit: ");
-    scanf("%d", &lower_limit);
-    printf("Enter upper limit: ");
-    scanf("%d", &upper_limit);
-
-    find_superhero_palindromic_primes(lower_limit, upper_limit);
+    for(int i=1; i<=n; i++){
+        for(int j=1; j<=i; j++) printf("*");
+        printf("\n");
+    }
+    for(int i=n-1; i>=1; i--){
+        for(int j=1; j<=i; j++)
+            printf("*");
+        printf("\n");
+    }
 
     return 0;
 }
@@ -245,43 +108,177 @@ int main(){
 ## Answer to the Question 5
 ```c
 #include <stdio.h>
-#include <string.h>
-
-struct demons{
-    char name[60];
-    int power;
-};
-
-int onlyAlphabets(char *input) {
-    for(int i=0; input[i]!='\0'; i++){
-        if(!((input[i]>='a' && input[i]<='z') || (input[i]>='A' && input[i]<='Z'))) return 0;
-    }
-    return 1;
-}
-
-int Multiple_of_5(int x){
-    if(x%5==0) return 1;
-    return 0;
-}
 
 int main(){
     int n;
     scanf("%d", &n);
 
-    struct demons demonList[n];
-    for(int i=0; i<n; i++){
-        scanf("%s %d", demonList[i].name, &demonList[i].power);
+    for(int i=n-1; i>=0; i--){
+        for(int j=1; j<=i; j++)
+            printf(" ");
+        
+        for(int j=1; j<=n; j++)
+            printf("*");
+        printf("\n");
     }
-
-    int count=0;
-    for(int i=0; i<n; i++){
-        if(onlyAlphabets(demonList[i].name) && Multiple_of_5(demonList[i].power)) count++;
-    }
-    printf("%d\n", count);
 
     return 0;
 }
 ```
+
+## Answer to the Question 6
+```c
+#include <stdio.h>
+
+int main(){
+    int n;
+    scanf("%d", &n);
+
+    int count;
+    if(n%2==0) count=n/2;
+    else count=n/2+1; 
+
+    for(int i=1; i<=n; i++){
+        if(i==n/2+1){
+            for(int j=1; j<=n; j++) printf("*");
+            
+            printf("\n");
+            continue;
+        }
+        if(n%2==0 && i==n/2){
+            for(int j=1; j<=n; j++) printf("*");
+            
+            printf("\n");
+            continue;
+        }
+        if(n%2==0){
+            for(int j=1; j<=n/2-1; j++) printf(" ");
+            
+            printf("*");
+        } else{
+            for(int j=1; j<=n/2; j++) printf(" ");
+            printf("*");
+        }
+            
+        printf("\n");
+    }
+
+    return 0;
+}
+```
+
+## Answer to the Question 7
+```c
+#include <stdio.h>
+
+int main(){
+    int n;
+    scanf("%d", &n);
+
+    for(int i=1; i<=n; i++){
+        for(int j=1; j<=n; j++){
+            if(i==1 || i==n || j==1 || j==n) printf("*");
+
+            else printf(" ");
+            
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
+```
+
+## Answer to the Question 8
+```c
+#include <stdio.h>
+
+int main(){
+    int n;
+    scanf("%d", &n);
+
+    int m=0;
+    int k=1;
+    for(int i=1; i<=n/2+1; i++){
+        m++;
+        for(int j=1; j<=n/2+1-m; j++) printf(" ");
+        
+        for(int j=1; j<=k; j++){
+            if(n%2==0 && j==k) break;
+            printf("*");
+        }
+        k+=2;
+        if(n%2==0 && i==1) printf("*");
+        printf("\n");        
+    }
+
+    return 0;
+}
+```
+
+## Answer to the Question 9
+```c
+#include <stdio.h>
+
+int main(){
+    int n;
+    scanf("%d", &n);
+
+    int k=n;
+    int m=n/2+2;
+    for(int i=1; i<=n/2+1; i++){
+        m--;
+        for(int j=1; j<=n/2+1-m; j++) printf(" ");
+        for(int j=1; j<=k; j++) printf("*");
+        
+        k-=2;
+        if(n%2==0 && i==n/2+1) printf("*");
+        printf("\n");        
+    }
+
+    return 0;
+}
+```
+
+## Answer to the Question 10
+```c
+#include <stdio.h>
+
+int main(){
+    int n;
+    scanf("%d", &n);
+
+    int m=0, k=1;
+    for(int i=1; i<=n/2+1; i++){
+        m++;
+        for(int j=1; j<=n/2+1-m; j++) printf(" ");
+        for(int j=1; j<=k; j++){
+            if(n%2==0 && j==k) break;
+            printf("*");
+        }
+        k+=2;
+        if(n%2==0 && i==1) printf("*");
+        printf("\n");        
+    }
+
+    k=n-2;
+    m=n/2+1;
+    for(int i=1; i<=n/2+1; i++){
+        if(i==1) continue;
+        m--;
+        
+        for(int j=1; j<=n/2+1-m; j++) printf(" ");
+        for(int j=1; j<=k; j++) printf("*");
+
+        k-=2;
+        if(n%2==0 && i==n/2+1) printf("*");
+        printf("\n");        
+    }
+
+    return 0;
+}
+```
+
 
 <br>
 
