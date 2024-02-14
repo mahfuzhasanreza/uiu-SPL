@@ -4,7 +4,7 @@
 
 ### Content Overview
   - SPL Theory
-    - [Assignment Q. Solve]
+    - [Assignment Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#assignment-theory-q-solve)
     - Mid Exam Q. Solve
     - [Final Exam Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#final-theory-q-solve)
   - SPL Laboratory
@@ -17,7 +17,7 @@
 ### Assignment (Theory) Q. Solve
   | Question (.pdf) | Solution Link |
   :----------------:|----------------
-  [Assignment 1] | Click [here] for Assignment 1 solution
+  [Assignment 1](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Assignment%20(Theory)%20Q.%20Solve/Assignment%201/Theory_Ass_Question_1.pdf) | Click [here](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Assignment%20(Theory)%20Q.%20Solve/Assignment%201) for Assignment 1 solution
 
 <br>
 
