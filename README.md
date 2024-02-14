@@ -4,12 +4,20 @@
 
 ### Content Overview
   - SPL Theory
+    - [Assignment Q. Solve]
     - Mid Exam Q. Solve
     - [Final Exam Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#final-theory-q-solve)
   - SPL Laboratory
     - [Assignment Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#assignment-lab-q-solve)
     - Mid Exam Q. Solve
     - Final Exam Q. Solve
+
+<br>
+
+### Assignment (Theory) Q. Solve
+  | Question (.pdf) | Solution Link |
+  :----------------:|----------------
+  [Assignment 1] | Click [here] for Assignment 1 solution
 
 <br>
 
