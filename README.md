@@ -62,8 +62,6 @@ After saving this repository, go to your GitHub profile and click on Stars
 
 <br>
 
-### _Learn With Mahfuz:_
- - LinkedIn
 
 ### _Get Connected with [Learn With Mahfuz](https://www.youtube.com/@learn-with-mahfuz)_
   - _Subscribe to my channel on [YouTube](https://www.youtube.com/@learn-with-mahfuz)_
