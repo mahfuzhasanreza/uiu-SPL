@@ -2,6 +2,9 @@
 `Based on United International University (UIU)`  
 <br>
 
+**Click [here](https://www.youtube.com/watch?v=GxsuUk8cYG0&list=PLTsdGoNQPfQTp8i1x64H1t7OYQGVX3CQz) for C Programming Video Tutorial**
+<br>
+
 ### Content Overview
   - SPL Theory
     - [Assignment Q. Solve](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main?tab=readme-ov-file#assignment-theory-q-solve)
@@ -59,7 +62,12 @@ After saving this repository, go to your GitHub profile and click on Stars
 
 <br>
 
-### _Author: [Mahfuz Hasan Reza](https://github.com/mahfuzhasanreza/)_
- - _Connect with me on [LinkedIn](https://www.linkedin.com/in/mahfuzhasanreza/)_
- - _Follow me on [Instagram](https://www.instagram.com/mahfuzhasanreza/)_
- - _Connect with me on [Facebook](https://www.facebook.com/mahfuzhasanreza/)_
+### _Learn With Mahfuz:_
+ - LinkedIn
+
+### _Get Connected with [Learn With Mahfuz](https://www.youtube.com/@learn-with-mahfuz)_
+  - _Subscribe to my channel on [YouTube](https://www.youtube.com/@learn-with-mahfuz)_
+  - _Follow me on [LinkedIn](https://www.linkedin.com/company/learn-with-mahfuz)_
+  - _Follow me on [Facebook](https://www.facebook.com/LearnWithMahfuzLWM)_
+  - _Connect with me on [LinkedIn](https://www.linkedin.com/in/mahfuzhasanreza/)_
+ 
