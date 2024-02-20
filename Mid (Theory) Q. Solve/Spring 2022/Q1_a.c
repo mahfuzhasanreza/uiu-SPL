@@ -1,10 +1,10 @@
 #include<stdio.h>
 #include<math.h>
 
-int Main(){
-    float n_, m = 5;
+int main(){
+    int n_, m = 5;
     scanf("%d", &n_);
-    float p = ((int)n_%(int)m)/sqrt(6);
-    printf("%d", p);
+    float p = (n_%m)/sqrt(6);
+    printf("%f", p);
     return 0;
 }
