@@ -1,18 +1,3 @@
-## Solution Overview
-  - Question 1
-      - [Question 1 (a)]()
-      - [Question 1 (b)]()
-  - Question 2
-      - [Question 2 (a)]()
-      - [Question 2 (b)]()
-  - Question 3
-      - [Question 3 (a)]()
-      - [Question 3 (b)]()
-  - [Question 4]()
-  - Question 5
-      - [Question 5 (a)]()
-      - [Question 5 (b)]()
-
 ## Answer to the Question 1 (b)
 ```
 _Num1 : valid
