@@ -1,6 +1,6 @@
 ## Answer to the Question 1 (a)
 ```
-(i) is-Val : invalid (there have a special character "-")
+(i) is-Val : invalid (there have a special character -)
 (ii) a1234 : valid
 (iii) while : invalid (it's a keyword)
 (iv) _1num_new : valid
