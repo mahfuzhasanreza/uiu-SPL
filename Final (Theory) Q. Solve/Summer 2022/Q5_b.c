@@ -22,7 +22,7 @@ int main(){
     } else{
         median=num[length/2];
     }
-    printf("Median: %d\n", median);
+    printf("Median: %f\n", median);
 
     return 0;
 }
