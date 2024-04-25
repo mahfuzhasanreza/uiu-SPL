@@ -11,8 +11,8 @@ int main(){
 
     int length=0;
     int num[1000];
-    while(!feof(inputFile)){
-        fscanf(inputFile, "%d", &num[length++]);
+    while(fscanf(inputFile, "%d", &num[length] != EOF)){
+        length++;
     }
     fclose(inputFile);
     
