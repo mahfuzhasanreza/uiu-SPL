@@ -16,7 +16,12 @@ int main(){
     }
     fclose(inputFile);
     
-    int median=num[length/2];
+    float median=0;
+    if(length%2==0){
+        median=(num[length/2]+num[length/2-1])/2.0;
+    } else{
+        median=num[length/2];
+    }
     printf("Median: %d\n", median);
 
     return 0;
