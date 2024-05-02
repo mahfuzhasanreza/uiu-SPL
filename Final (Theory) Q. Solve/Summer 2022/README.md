@@ -157,7 +157,6 @@ Manual Trace:
 ## Answer to the Question 4
 ```c
 #include<stdio.h>
-#include<string.h>
 
 struct Cricketer{
     int wickets, matches, runs;
