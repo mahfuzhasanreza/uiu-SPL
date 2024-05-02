@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 
 struct Cricketer{
     int wickets, matches, runs;
