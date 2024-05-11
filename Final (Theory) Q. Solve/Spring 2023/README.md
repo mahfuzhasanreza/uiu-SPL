@@ -49,10 +49,10 @@ int main(){
 ## Answer to the Question 1 (b)
 ```
 Output:
-    90 246 156
-    78 11922 156
-    12078 11922 156
-    90 246 156
+    90 247 156
+    78 11921 156
+    12078 11921 156
+    90 247 156
 ```
 
 ## Answer to the Question 2 (a)
