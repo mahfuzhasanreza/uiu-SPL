@@ -91,9 +91,8 @@ int main(){
 ## Answer to the Question 3 (a)
 ```
 Manual Trace:
-    str1: Hello World
-    str2: Programming
-    str2: ProgrammingHell
+    ....
+    ....
 ```
 
 ## Answer to the Question 3 (b)
