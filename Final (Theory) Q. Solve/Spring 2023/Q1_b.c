@@ -3,7 +3,7 @@
 int x = 78, y = 0, z = 156;
 
 int first_function(int p, int q) {
-    int x = p ;
+    int x = ++p ;
     return x + z;
 }
 void second_function(int w, int y) {
