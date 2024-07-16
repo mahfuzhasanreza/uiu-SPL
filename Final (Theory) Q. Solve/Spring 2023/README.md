@@ -214,7 +214,9 @@ int main(){
 
 <br>
 
-## _Author: [Mahfuz Hasan Reza](https://github.com/mahfuzhasanreza/)_
- - _Connect with me on [LinkedIn](https://www.linkedin.com/in/mahfuzhasanreza/)_
- - _Follow me on [Instagram](https://www.instagram.com/mahfuzhasanreza/)_
- - _Connect with me on [Facebook](https://www.facebook.com/mahfuzhasanreza/)_
+# _Author: [Mahfuz Hasan Reza](https://github.com/mahfuzhasanreza/)_
+# _Get Connected with [Learn With Mahfuz](https://www.youtube.com/@learn-with-mahfuz)_
+  - _Subscribe to my channel on [YouTube](https://www.youtube.com/@learn-with-mahfuz)_
+  - _Follow me on [LinkedIn](https://www.linkedin.com/company/learn-with-mahfuz)_
+  - _Follow me on [Facebook](https://www.facebook.com/LearnWithMahfuzLWM)_
+  - _Connect with me on [LinkedIn](https://www.linkedin.com/in/mahfuzhasanreza/)_
