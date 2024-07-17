@@ -1,6 +1,6 @@
 ## Answer to the Question 1 (a)
-```
-int Num, a;
+```c
+    int Num, a;
     Num = 20 % 3;
     a = Num + 10;
     printf("%d %d ", Num, a);
@@ -15,7 +15,7 @@ a =  3
 ```
 
 ## Answer to the Question 2 (a)
-```
+```c
     int num = 5, sum = 10, i = 4, j = 9;
     if (num == 1)
     {
@@ -43,7 +43,7 @@ a =  3
 ```
 
 ## Answer to the Question 3 (a)
-```
+```c
 #include <stdio.h>
 
 int main()
@@ -88,7 +88,7 @@ int main()
 ```
 
 ## Answer to the Question 3 (b)
-```
+```c
     int i = 0, count = 0;
     int n = 12345;
     for (; n != 0;)
@@ -105,7 +105,7 @@ int main()
 ```
 
 ## Answer to the Question 5
-```
+```c
     int N, K;
     printf("N=");
     scanf("%d", &N);
@@ -136,7 +136,7 @@ int main()
 ```
 
 ## Answer to the Question 5
-```
+```c
     int n;
     scanf("%d", &n);
     int A[n][n];
