@@ -25,6 +25,36 @@ FizzBuzz
 ```
 Fizz
 ```
+## Answer to the Question 2 (a)
+```
+char rank;
+    scanf(“% c”, &rank);
+    int bonus = 0;
+    if (rank == 'p')
+    {
+        bonus += 20;
+        bonus += 20;
+        bonus += 20;
+    }
+    else if (rank == 'g')
+    {
+        bonus += 20;
+        bonus += 20;
+    }
+    else if (rank == 's')
+    {
+        bonus += 20;
+    }
+    else if (rank == 's')
+    {
+        bonus += 10;
+    }
+    printf(“\n % d”, bonus);
+```
+
+## Answer to the Question 2 (b)
+```
+```
 
 ## Answer to the Question 3 (a)
 ```c
@@ -45,7 +75,38 @@ int main(){
     return 0;
 }
 ```
-
+## Answer to the Question 3 (b)
+```
+int arr[10] = {0};
+    int k = 15, int i = 1;
+    while (i < 6)
+    {
+        arr[i] = ++k - 2;
+        k++;
+        i += 2;
+    }
+    int c = 0;
+```
+```
+    int i = 6;
+    while (i < 10)
+    {
+        int j = 9;
+        while (j >= i)
+        {
+            arr[j] = ++c;
+            j--;
+        }
+        i++;
+    }
+    i = 0;
+    while (i < 10)
+    {
+        if (i % 2 == 0)
+            arr[i] = ++k;
+        i++;
+    }
+```
 ## Answer to the Question 4 (a)
 ```c
 #include<stdio.h>
