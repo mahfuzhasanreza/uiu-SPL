@@ -4,7 +4,26 @@
 (ii) a1234 : valid
 (iii) while : invalid (it's a keyword)
 (iv) _1num_new : valid
-(v) CSE 1111 : invalid (there have a space)
+(v) CSE 1111: invalid (there have a space)
+```
+
+## Answer to the Question 1 (b)
+```
+(i) a = 5.000000
+(ii) b = 2
+(iii) c = 16
+(iv) d = 9
+(v) result = 1.000000
+```
+## Answer to the Question 1 (c)
+(i) Output:
+```
+Pattern
+FizzBuzz
+```
+(ii) Output:
+```
+Fizz
 ```
 
 ## Answer to the Question 3 (a)
