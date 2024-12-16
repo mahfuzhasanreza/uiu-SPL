@@ -42,6 +42,16 @@ a =  3
     }
 ```
 
+## Answer to the Question 2 (b)
+
+|  i   |   p   |   x   |
+|:-----:|:-----:|:-----:|
+|   -   |   1   |  490  |
+|   1   |   8   |  477  |
+|   4   |  12   |  464  |
+|   7   |  12   |  464  |
+
+
 ## Answer to the Question 3 (a)
 ```c
 #include <stdio.h>
@@ -104,6 +114,17 @@ int main()
     }
 ```
 
+## Answer to the Question 4
+
+|  i   |   hi   |  hlw   | arr[0] | arr[1] | arr[2] | arr[3] |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|   -   |   0   |   10   |   10   |   20   |   30   |   40   |
+|   4   |   0   |    8   |   15   |   20   |   30   |   40   |
+|   5   |   0   |    6   |   15   |   20   |   30   |   40   |
+|   6   |   0   |    4   |   15   |   20   |   30   |   40   |
+|   7   |   0   |    4   |   15   |   20   |   30   |   40   |
+
+
 ## Answer to the Question 5
 ```c
     int N, K;
@@ -135,7 +156,7 @@ int main()
     return 0;
 ```
 
-## Answer to the Question 5
+## Answer to the Question 5 (or)
 ```c
     int n;
     scanf("%d", &n);
