@@ -55,7 +55,7 @@ int main(){
 
 ## Answer to the Question 2 (b)
 |    i    |    j    | result |   x   |   y   |
-|---------|---------|--------|-------|-------|
+|:---------:|:---------:|:--------:|:-------:|:-------:|
 | garbage |    -    |   5    |   2   |   2   |
 |   20    |    8    |   7    |   2   |   3   |
 |   24    |    7    |   10   |   3   |   4   |
@@ -182,7 +182,7 @@ int main() {
 ```
 
 ## Answer to the Question 4 (b)
-[4(b) Solution](https://github.com/mahfuzhasanreza/uiu-SPL/blob/main/Mid%20(Theory)%20Q.%20Solve/Spring%202023/Q4_b.png)
+![4(b) Solution](https://github.com/mahfuzhasanreza/uiu-SPL/blob/main/Mid%20(Theory)%20Q.%20Solve/Spring%202023/Q4_b.png)
 
 
 
