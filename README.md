@@ -43,6 +43,7 @@
   [Spring 2023](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20(Theory)%20Q.%20Solve/Spring%202023/Final_Question_Spring_23.pdf) | Click [here](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Final%20(Theory)%20Q.%20Solve/Spring%202023) for Spring 2023 solution
   [Summer 2023](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20(Theory)%20Q.%20Solve/Summer%202023/Final_Question_Summer_23.pdf) | Click [here](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Final%20(Theory)%20Q.%20Solve/Summer%202023) for Summer 2023 solution
   [Fall 2023](https://github.com/mahfuzhasanreza/UIU-SPL/blob/main/Final%20(Theory)%20Q.%20Solve/Fall%202023/Final_Question_Fall_23.pdf) | Click [here](https://github.com/mahfuzhasanreza/UIU-SPL/tree/main/Final%20(Theory)%20Q.%20Solve/Fall%202023) for Fall 2023 solution
+  [Spring 2024](https://github.com/mahfuzhasanreza/uiu-SPL/blob/main/Final%20(Theory)%20Q.%20Solve/Spring%202024/Final_Question_Spring_24.pdf) | | 
   
   
 <br>
